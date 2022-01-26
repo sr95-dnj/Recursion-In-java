@@ -32,7 +32,7 @@ public class FabonacciSeries {
         return num;
     }
 
-    // 2nd way
+    // 2nd way short compile time
     private static long fabonacci2ndWay(int n) {
         if(n <=1){
             return n;
